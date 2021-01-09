@@ -62,7 +62,7 @@ body{
 
 .weather_body{
 
-    
+    display: none;
     color: #582233;
     padding: 20px;
     line-height: 2 rem;
